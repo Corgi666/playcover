@@ -1,9 +1,65 @@
 [
     {
-        "bundleID": "com.miHoYo.GenshinImpact",
-        "name": "Genshin Impact",
-        "version": "4.7.0",  
-        "itunesLookup": "https://itunes.apple.com/lookup?bundleId=com.miHoYo.GenshinImpact",
-        "link": "https://drive.google.com/uc?export=download&id=1-HVdI7XNO7W9vMREtqE_44BwGPFPKeYM"
+        "bundleID": "com.io.playcover.PCTT",
+        "name": "PCTT",
+        "version": "1.0",
+        "itunesLookup": "",
+        "link": "https://github.com/PlayCover/PlayCover-Test-Toolkit/releases/download/1.0/PCTT.ipa"
+    },
+    {
+        "bundleID": "xyz.skitty.Aidoku",
+        "name": "Aidoku",
+        "version": "0.5",
+        "itunesLookup": "",
+        "link": "https://github.com/Aidoku/Aidoku/releases/download/v0.5/Aidoku.ipa"
+    },
+    {
+        "bundleID": "com.litchie.idosgames",
+        "name": "iDos",
+        "version": "2.1",
+        "itunesLookup": "",
+        "link": "https://github.com/litchie/dospad/releases/download/2.1/iDOS.ipa"
+    },
+    {
+        "bundleID": "com.example.mame4ios",
+        "name": "MAME4iOS",
+        "version": "2022.4-248",
+        "itunesLookup": "",
+        "link": "https://github.com/yoshisuga/MAME4iOS/releases/download/2002.4/MAME4iOS-2022.4-248.ipa"
+    },
+    {
+        "bundleID": "net.namedfork.minivmac",
+        "name": "Mini vMac for iOS",
+        "version": "2.5",
+        "itunesLookup": "",
+        "link": "https://github.com/zydeco/minivmac4ios/releases/download/v2.5/minivmac4ios-2.5.ipa"
+    },
+    {
+        "bundleID": "org.provenance-emu.provenance",
+        "name": "Provenance",
+        "version": "2.1.1",
+        "itunesLookup": "",
+        "link": "https://github.com/Provenance-Emu/Provenance/releases/download/2.1.1/Provenance-iOS.ipa"
+    },
+    {
+        "bundleID": "stream.yattee.app",
+        "name": "Yatee",
+        "version": "1.4-alpha.7",
+        "itunesLookup": "",
+        "link": "https://github.com/yattee/yattee/releases/download/v1.4-alpha.7/Yattee-1.4-alpha.7-iOS.ipa"
+    },
+    {
+        "bundleID": "net.yura.domination",
+        "name": "Domination",
+        "version": "1.2.5",
+        "itunesLookup": "",
+        "link": "https://master.dl.sourceforge.net/project/domination/Domination/1.2.5/Domination-4.ipa?viasf=1"
+    },
+    {
+        "bundleID": "net.kdt.pojavlauncher",
+        "name": "Pojav Launcher",
+        "version": "2.1.3",
+        "itunesLookup": "",
+        "link": "https://github.com/PojavLauncherTeam/PojavLauncher_iOS/releases/download/v2.1.3/net.kdt.pojavlauncher-2.1.3.ipa"
     }
 ]
